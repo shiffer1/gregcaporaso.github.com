@@ -5,7 +5,7 @@ datatype: bio
 title: Arron Shiffer
 picture: "arron-shiffer/profile.png"
 abstract: >
-  I am a new PhD student in Dr. Caporaso's lab. I am currently working on some benchmarking studies looking at four different multiple sequence aligners with "Lane mask" filtering vs strictly entropy based positional alignment filtering.
+  I am a PhD student in Dr. Caporaso's lab. I am currently working on some benchmarking studies looking at four different multiple sequence aligners with "Lane mask" filtering vs strictly entropy based positional alignment filtering.
 ---
 
 
