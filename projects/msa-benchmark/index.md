@@ -3,7 +3,7 @@ layout: bio
 datatype: project
 
 title: "Creating a Modern Multiple Sequence Alignment and Filtering Workflow"
-picture: "workflow_plots.png"
+picture: "msa-benchmark/workflow_plots.png"
 abstract: >
   Optimizing the QIIME workflow for multiple sequence alignment and positional filtering.
 ---
